@@ -1,0 +1,44 @@
+.ex_card_container{
+    width: 38%;
+    background-color: #181818;
+    padding: 8px 15px;
+    box-shadow: -8px -8px 8px 0px lightslategray;
+    margin: 0 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ex_card_title{
+    font-size: 28px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ex_card_subtitle{
+    font-size: 18px;
+    text-align: center;
+    margin-top: -15px;
+}
+
+.ex_card_sentence{
+    font-size: 14px;
+}
+
+.ex_card_icon_images_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ex_card_tech_used_title{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ex_card_icon_images_container > img{
+    height: 60px;
+    margin: 0 9px;
+    padding-bottom: 20px;
+    
+}

@@ -1,0 +1,17 @@
+.techstack_container{
+    height: 90vh;
+    background-color: #181818;
+}
+
+.techstack_title{
+    margin: -2px 0px;
+    padding-top: 50px;
+    font-size: 56px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.techstack_icon_container{
+    display: flex;
+    margin: 100px 0px;
+}
